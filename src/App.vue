@@ -9,7 +9,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <h2>这个是app主界面22233333</h2>
+    <h2>这个是app主界面66666</h2>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
