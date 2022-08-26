@@ -1,19 +1,28 @@
+<!--
+ * @Author: quange 1452764349@qq.com
+ * @Date: 2022-08-26 17:02:28
+ * @LastEditors: quange 1452764349@qq.com
+ * @LastEditTime: 2022-08-26 18:10:10
+ * @FilePath: \VueStudy\supermall\src\App.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+    <h2>这个是app主界面222</h2>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from "./components/HelloWorld.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     HelloWorld
   }
-}
+};
 </script>
 
 <style>
